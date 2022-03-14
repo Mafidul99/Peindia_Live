@@ -1,0 +1,10 @@
+.fooetrtext {
+    font-size: 13px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.fooetrtext:hover {
+    text-decoration: none;
+    color: blue;
+}
